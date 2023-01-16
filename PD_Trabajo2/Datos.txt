@@ -1,0 +1,12 @@
+1. ada_prior.arff
+
+4562 personas y las clasifica en dos grupos: cobran más de 50000 dólares (1) o no (-1).
+
+https://www.openml.org/search?type=data&status=active&id=1037
+https://www.openml.org/data/get_csv/53920/ada_prior.arff
+
+
+2. En este ejercicio trataremos un dataset de setas de OPENML (https://www.openml.org/d/24) para clasificación: a partir de las características físicas y visuales de una seta, decir si es venenosa o comestible.
+
+https://www.openml.org/d/24
+https://www.openml.org/data/download/24/dataset_24_mushroom.arff
