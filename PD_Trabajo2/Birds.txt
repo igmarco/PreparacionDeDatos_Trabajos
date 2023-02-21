@@ -1,0 +1,3 @@
+Artículo con el estudio del dataset: https://onlinelibrary.wiley.com/doi/10.1111/ele.13898
+
+Dónde encontrar el dataset: https://figshare.com/articles/dataset/AVONET_morphological_ecological_and_geographical_data_for_all_birds_Tobias_et_al_2021_Ecology_Letters_/16586228/5
